@@ -3,8 +3,8 @@
 + Using binary Gradle
 Download and install binary Gradle here (May be require Java >= 11.x) 
  https://gradle.org/install/
-Using command test:
 
+Using command test install status:
 ```
 gradle --version
 ````
