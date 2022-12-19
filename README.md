@@ -6,7 +6,7 @@ Download and install binary Gradle here (May be require Java >= 11.x)
 Using command test:
 
 ```
-gradle --vesion
+gradle --version
 ````
 
 Try to build:
