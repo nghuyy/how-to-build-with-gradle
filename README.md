@@ -16,7 +16,7 @@ gradle Release
 
 ```
 
-+ Using gradle wrapper (require Java >= 11.x or JDK >= 11.x)
++ Using gradle wrapper(project contain gradlew.bat and gradle.sh vs gradle.kts) (require Java >= 11.x or JDK >= 11.x)
 ```
  linux: ./gradle Release
  
