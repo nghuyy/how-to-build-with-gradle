@@ -16,7 +16,7 @@ gradle Release
 
 ```
 
-+ Using gradle wrapper
++ Using gradle wrapper (require Java >= 11.x or JDK >= 11.x)
 ```
  linux: ./gradle Release
  
